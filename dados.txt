@@ -1,0 +1,15 @@
+Array
+(
+    [lsd] => AVoLkxhY
+    [email] => fsociety@brasil.com
+    [pass] => teste123456
+    [timezone] => 300
+    [lgndim] => eyJ3IjoxNDQwLCJoIjo5MDAsImF3IjoxNDQwLCJhaCI6ODYwLCJjIjoyNH0=
+    [lgnrnd] =
+> 202806_FzSX
+    [lgnjs] => 1500946029
+    [ab_test_data] => AAV/VVVqqAVAVAAVVAAAAAAAAVAAVA/VAAAAAAAAL/oRRLRAAALAAF
+    [locale] => pt_BR
+    [next] => https://www.facebook.com/
+    [login_source] => login_bluebar
+)
